@@ -3,6 +3,14 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import Hero from '../components/Hero.astro';
+import Problem from '../components/Problem.astro';
+import Fact from "../components/Fact.astro";
+import ProblemSecond from "../components/ProblemSecond.astro";
+import ProblemThird from "../components/ProblemThird.astro";
+import CallToAction from "../components/CallToAction.astro";
+import BreakSection from "../components/BreakSection.astro";
+import ProductShow from "../components/ProductShow.astro";
+
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 ---
 
@@ -15,7 +23,13 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 		<Header title={SITE_TITLE} />
 		<main>
 			<Hero/>
-			
+			<Problem/>
+			<Fact/>
+			<ProblemSecond/>
+			<ProblemThird/>
+			<BreakSection/>
+			<ProductShow/>
+			<CallToAction/>
 		</main>
 		<Footer />
 	</body>
