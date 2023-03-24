@@ -1,0 +1,19 @@
+<div class="bg-cyan-700">
+  <div class="max-w-4xl mx-auto text-center py-10 px-4 sm:py-20 sm:px-6 lg:px-8 lg:py-12">
+    <h2 class="lg:text-5xl text-3xl font-extrabold text-white mt-2">
+      <span class="block">Hubungkan Nomor WhatsApp Anda ke Dripsender </span>
+    </h2>
+    <p class="lg:text-2xl text-xl text-cyan-100 py-4">Dan segera bikin broadcast otomatisnya..</p>
+
+    <a
+      href="/"
+      class="mt-2 w-full shadow-lg inline-flex items-center justify-center px-14 py-4  border border-transparent text-xl lg:text-4xl font-bold rounded-full text-white bg-cyan-500 hover:bg-cyan-50 hover:text-cyan-800 sm:w-auto"
+    >
+      Coba Sekarang!
+    </a>
+    <div class="my-3">
+      <img class="mx-auto" src="src/img/window.png" alt="" />
+      <p class="text-sm text-cyan-100 pt-2">Tidak perlu download atau install</p>
+    </div>
+  </div>
+</div>

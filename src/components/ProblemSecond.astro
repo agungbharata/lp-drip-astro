@@ -1,0 +1,167 @@
+<div class="dark:bg-slate-700 bg-cyan-600 md:bg-[url('/src/img/wwq.png')] bg-no-repeat bg-bottom ">
+  <div class="max-w-3xl mx-auto px-4 pt-16 pb-0 lg:max-w-7xl lg:pt-24 lg:px-8">
+    <p class="text-lg lg:text-2xl font-medium text-center max-w-sm lg:max-w-3xl justify-center flex flex-col mx-auto text-white">
+      Sayang Banget Kalau Tidak Pakai WhatsApp Secara Optimal
+    </p>
+
+    <h2 class="dark:text-white mx-auto max-w-4xl lg:text-5xl text-3xl font-extrabold text-white tracking-tight text-center my-2">
+      Apalagi Masalah Lain yang Lebih Besar Bisa Muncul...
+    </h2>
+
+    <div class="grid md:grid-cols-3 py-8 lg:gap-3 gap-2">
+      <!--Kolom 1-->
+      <div>
+        <li class="col-span-1 flex mb-6 lg:px-5 px-2">
+          <div class="flex flex-col rounded-xl shadow-md bg-white overflow-hidden">
+            <div class="py-4 px-5 w-full bg-red-500 inline-flex">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke-width="1.5"
+                stroke="currentColor"
+                class="w-8 h-8 mr-2 text-white"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126zM12 15.75h.007v.008H12v-.008z"
+                />
+              </svg>
+
+              <p class="font-bold text-xl text-white">Tidak Punya Database</p>
+            </div>
+            <div class="p-5 lg:p-6 grow w-full"><p>Tidak ada database adalah salah satu hal paling buruk dalam bisnis</p></div>
+          </div>
+        </li>
+
+        <li class="col-span-1 flex mb-6 lg:px-5 px-2">
+          <div class="flex flex-col rounded-xl shadow-md bg-white overflow-hidden">
+            <div class="py-4 px-5 w-full bg-red-500 inline-flex">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke-width="1.5"
+                stroke="currentColor"
+                class="w-8 h-8 mr-2 text-white"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126zM12 15.75h.007v.008H12v-.008z"
+                />
+              </svg>
+
+              <p class="font-extrabold text-lg text-white">Kehilangan Customer</p>
+            </div>
+            <div class="p-5 lg:p-6 grow w-full"><p>Customer kabur karena lambat dan buruknya penanganan follow up</p></div>
+          </div>
+        </li>
+
+        <li class="col-span-1 flex mb-6 lg:px-5 px-2">
+          <div class="flex flex-col rounded-xl shadow-md bg-white overflow-hidden">
+            <div class="py-4 px-5 w-full bg-red-500 inline-flex">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke-width="1.5"
+                stroke="currentColor"
+                class="w-8 h-8 mr-2 text-white"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126zM12 15.75h.007v.008H12v-.008z"
+                />
+              </svg>
+
+              <p class="font-extrabold text-lg text-white">Omset Turun</p>
+            </div>
+            <div class="p-5 lg:p-6 grow w-full"><p>Tidak promosi, kehilangan customer, disalip kompetitor, pastinya omset turun..</p></div>
+          </div>
+        </li>
+      </div>
+
+      <!--Kolom 2-->
+      <div class="col-span-1">
+        <img class="relative mx-auto items-center lg:hidden" width="350" src="/src/img/wwq.png" alt="" />
+      </div>
+      <!-- Kolom 3 -->
+      <div>
+        <li class="col-span-1 flex mb-6 lg:px-5 px-2">
+          <div class="flex flex-col rounded-xl shadow-md bg-white overflow-hidden">
+            <div class="py-4 px-5 w-full bg-red-500 inline-flex">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke-width="1.5"
+                stroke="currentColor"
+                class="w-8 h-8 mr-2 text-white"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126zM12 15.75h.007v.008H12v-.008z"
+                />
+              </svg>
+
+              <p class="font-extrabold text-lg text-white">Promosi Tidak Jalan</p>
+            </div>
+            <div class="p-5 lg:p-6 grow w-full"><p>Siapa yang mau kita kirim marketing campaign jika database dan sistemnya tidak ada</p></div>
+          </div>
+        </li>
+
+        <li class="col-span-1 flex mb-6 lg:px-5 px-2">
+          <div class="flex flex-col rounded-xl shadow-md bg-white overflow-hidden">
+            <div class="py-4 px-5 w-full bg-red-500 inline-flex">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke-width="1.5"
+                stroke="currentColor"
+                class="w-8 h-8 mr-2 text-white"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126zM12 15.75h.007v.008H12v-.008z"
+                />
+              </svg>
+
+              <p class="font-extrabold text-lg text-white">Disalip Kompetitor</p>
+            </div>
+            <div class="p-5 lg:p-6 grow w-full"><p>Kompetitor melaju cepat, ketika Anda lambat mengatasi masalah</p></div>
+          </div>
+        </li>
+
+        <li class="col-span-1 flex mb-6 lg:px-5 px-2">
+          <div class="flex flex-col rounded-xl shadow-md bg-white overflow-hidden">
+            <div class="py-4 px-5 w-full bg-red-500 inline-flex">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke-width="1.5"
+                stroke="currentColor"
+                class="w-8 h-8 mr-2 text-white"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126zM12 15.75h.007v.008H12v-.008z"
+                />
+              </svg>
+
+              <p class="font-extrabold text-lg text-white">Tutup Bisnis</p>
+            </div>
+            <div class="p-5 lg:p-6 grow w-full"><p>Hal paling buruk, jika akhirnya harus mengakhiri bisnis karena tak berkembang</p></div>
+          </div>
+        </li>
+      </div>
+    </div>
+  </div>
+</div>

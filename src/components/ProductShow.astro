@@ -1,0 +1,202 @@
+<div class="pt-8 pb-24 mx-auto bg-slate-50 ">
+  <div class="mx-auto max-w-md px-4 text-center sm:px-6 sm:max-w-3xl lg:px-8 lg:max-w-7xl">
+    <img class="mx-auto" src="src/img/product-show.png" alt="" />
+  </div>
+
+  <div class="text-center">
+    <p class="lg:text-2xl text-md font-normal tracking-tight max-w-4xl mx-auto text-gray-900 text-center px-4 py-2 rounded-full bg-cyan-200 inline">
+      Dripsender Bukan Tools yang Sama Seperti di Pasaran
+    </p>
+    <p class="mt-4 lg:text-5xl text-3xl font-extrabold tracking-tight max-w-4xl mx-auto text-gray-900 text-center">
+      Apa yang Bisa Dilakukan Dripsender?
+    </p>
+  </div>
+
+  <!-- Problem List -->
+
+  <div class="mt-10 space-y-5 md:space-y-0 md:grid md:grid-cols-2 md:gap-6 max-w-6xl mx-auto px-4">
+    <div class="col-span-1 flex rounded-xl shadow-md bg-white p-8">
+      <div class="flex-shrink-0 flex items-center justify-center font-medium rounded-l-md">
+        <img class="relative mx-auto items-center w-16 h-auto lg:w-24" src="/src/img/01.-desktop-dan-mobile.png" alt="" />
+      </div>
+      <div class="flex-1 px-4 py-2 flex-wrap">
+        <p class="lg:text-2xl text-lg font-bold">Dekstop & Mobile Acces</p>
+        <p class="text-md font-normal">Bisa dioperasikan menggunakan laptop atau smartphone. Tersedia pula di PlayStore</p>
+      </div>
+    </div>
+
+    <div class="col-span-1 flex rounded-xl shadow-md bg-white p-8">
+      <div class="flex-shrink-0 flex items-center justify-center font-medium rounded-l-md">
+        <img class="relative mx-auto items-center w-16 h-auto lg:w-24" src="/src/img/02.-Grabbing-kontak.png" alt="" />
+      </div>
+      <div class="flex-1 px-4 py-2 flex-wrap">
+        <p class="lg:text-2xl text-lg font-bold">Grabbing Contact WA</p>
+        <p class="text-md font-normal">Bisa melakukan grabbing data atau ambil data kontak grup-grup WA yang Anda ikuti.</p>
+      </div>
+    </div>
+
+    <div class="col-span-1 flex rounded-xl shadow-md bg-white p-8">
+      <div class="flex-shrink-0 flex items-center justify-center font-medium rounded-l-md">
+        <img class="relative mx-auto items-center w-16 h-auto lg:w-24" src="/src/img/03.-simpan-nama.png" alt="" />
+      </div>
+      <div class="flex-1 px-4 py-2 flex-wrap">
+        <p class="lg:text-2xl text-lg font-bold">Simpan Nama Kontak</p>
+        <p class="text-md font-normal">Saat grabbing kontak WA otomatis menyimpan nama sesuai nama kontak WA</p>
+      </div>
+    </div>
+
+    <div class="col-span-1 flex rounded-xl shadow-md bg-white p-8">
+      <div class="flex-shrink-0 flex items-center justify-center font-medium rounded-l-md">
+        <img class="relative mx-auto items-center w-16 h-auto lg:w-24" src="/src/img/04.-List-Building.png" alt="" />
+      </div>
+      <div class="flex-1 px-4 py-2 flex-wrap">
+        <p class="lg:text-2xl text-lg font-bold">Listbuilding Tanpa Form</p>
+        <p class="text-md font-normal">Bisa selektif mengumpulkan hanya data orang-orang yang berminat dengan penawaran Anda</p>
+      </div>
+    </div>
+
+    <div class="col-span-1 flex rounded-xl shadow-md bg-white p-8">
+      <div class="flex-shrink-0 flex items-center justify-center font-medium rounded-l-md">
+        <img class="relative mx-auto items-center w-16 h-auto lg:w-24" src="/src/img/05.-broadcast-massal.png" alt="" />
+      </div>
+      <div class="flex-1 px-4 py-2 flex-wrap">
+        <p class="lg:text-2xl text-lg font-bold">Broadcast Massal</p>
+        <p class="text-md font-normal">Kirim marketing campaign lebih mudah dan cepat, tak perlu manual lagi untuk promosi</p>
+      </div>
+    </div>
+
+    <div class="col-span-1 flex rounded-xl shadow-md bg-white p-8">
+      <div class="flex-shrink-0 flex items-center justify-center font-medium rounded-l-md">
+        <img class="relative mx-auto items-center w-16 h-auto lg:w-24" src="/src/img/06.-broadcast-schedule.png" alt="" />
+      </div>
+      <div class="flex-1 px-4 py-2 flex-wrap">
+        <p class="lg:text-2xl text-lg font-bold">Broadcast Schedule</p>
+        <p class="text-md font-normal">Jadwalkan broadcast sesuai waktu yang ditentukan. Broadcast akan berjalan otomatis sesuai jadwal</p>
+      </div>
+    </div>
+
+    <div class="col-span-1 flex rounded-xl shadow-md bg-white p-8">
+      <div class="flex-shrink-0 flex items-center justify-center font-medium rounded-l-md">
+        <img class="relative mx-auto items-center w-16 h-auto lg:w-24" src="/src/img/07.-Kirim-berbagai-file.png" alt="" />
+      </div>
+      <div class="flex-1 px-4 py-2 flex-wrap">
+        <p class="lg:text-2xl text-lg font-bold">Kirim Berbagai File</p>
+        <p class="text-md font-normal">Bisa kirim pesan teks, gambar, video serta file-file lainya seperti word, excel, ppt, pdf dan lainnya</p>
+      </div>
+    </div>
+
+    <div class="col-span-1 flex rounded-xl shadow-md bg-white p-8">
+      <div class="flex-shrink-0 flex items-center justify-center font-medium rounded-l-md">
+        <img class="relative mx-auto items-center w-16 h-auto lg:w-24" src="/src/img/08.-Multi-Admin.png" alt="" />
+      </div>
+      <div class="flex-1 px-4 py-2 flex-wrap">
+        <p class="lg:text-2xl text-lg font-bold">Multi Admin</p>
+        <p class="text-md font-normal">Bisa masukkan lebih dari 1 no WA dan invite admin untuk membantu melakukan marketing campaign</p>
+      </div>
+    </div>
+
+    <div class="col-span-1 flex rounded-xl shadow-md bg-white p-8">
+      <div class="flex-shrink-0 flex items-center justify-center font-medium rounded-l-md">
+        <img class="relative mx-auto items-center w-16 h-auto lg:w-24" src="/src/img/09.-Follow-up-otomatis.png" alt="" />
+      </div>
+      <div class="flex-1 px-4 py-2 flex-wrap">
+        <p class="lg:text-2xl text-lg font-bold">Follow Up Otomatis</p>
+        <p class="text-md font-normal">Atur pesan follow up nya, sisanya biar Dripsender yang bekerja otomatis melakukan follow up</p>
+      </div>
+    </div>
+
+    <div class="col-span-1 flex rounded-xl shadow-md bg-white p-8">
+      <div class="flex-shrink-0 flex items-center justify-center font-medium rounded-l-md">
+        <img class="relative mx-auto items-center w-16 h-auto lg:w-24" src="/src/img/10.-pesan-wa-interaktif.png" alt="" />
+      </div>
+      <div class="flex-1 px-4 py-2 flex-wrap">
+        <p class="lg:text-2xl text-lg font-bold">Pesan WA Interaktif</p>
+        <p class="text-md font-normal">Fitur yang bisa membuat broadcast / pesan WA menjadi interaktif, meningkatkan interaksi customer</p>
+      </div>
+    </div>
+
+    <div class="col-span-1 flex rounded-xl shadow-md bg-white p-8">
+      <div class="flex-shrink-0 flex items-center justify-center font-medium rounded-l-md">
+        <img class="relative mx-auto items-center w-16 h-auto lg:w-24" src="/src/img/11.-Button-Message.png" alt="" />
+      </div>
+      <div class="flex-1 px-4 py-2 flex-wrap">
+        <p class="lg:text-2xl text-lg font-bold">Button Message</p>
+        <p class="text-md font-normal">Selipkan tombol pilihan pada pesan / broadcast. Customer tinggal klik saja tanpa mengetik</p>
+      </div>
+    </div>
+
+    <div class="col-span-1 flex rounded-xl shadow-md bg-white p-8">
+      <div class="flex-shrink-0 flex items-center justify-center font-medium rounded-l-md">
+        <img class="relative mx-auto items-center w-16 h-auto lg:w-24" src="/src/img/12.-List-messages.png" alt="" />
+      </div>
+      <div class="flex-1 px-4 py-2 flex-wrap">
+        <p class="lg:text-2xl text-lg font-bold">List Message</p>
+        <p class="text-md font-normal">Produk / jasa bisa divisualisaikan dalam bentuk "Product List" seperti daftar menu</p>
+      </div>
+    </div>
+
+    <div class="col-span-1 flex rounded-xl shadow-md bg-white p-8">
+      <div class="flex-shrink-0 flex items-center justify-center font-medium rounded-l-md">
+        <img class="relative mx-auto items-center w-16 h-auto lg:w-24" src="/src/img/13.-pesan-berantai.png" alt="" />
+      </div>
+      <div class="flex-1 px-4 py-2 flex-wrap">
+        <p class="lg:text-2xl text-lg font-bold">Pesan Berantai</p>
+        <p class="text-md font-normal">Kirim pesan berantai sesuai jadwal yang diinginkan. Meningkatkan interaksi dengan customer</p>
+      </div>
+    </div>
+
+    <div class="col-span-1 flex rounded-xl shadow-md bg-white p-8">
+      <div class="flex-shrink-0 flex items-center justify-center font-medium rounded-l-md">
+        <img class="relative mx-auto items-center w-16 h-auto lg:w-24" src="/src/img/14.-Pesan-auto-reply.png" alt="" />
+      </div>
+      <div class="flex-1 px-4 py-2 flex-wrap">
+        <p class="lg:text-2xl text-lg font-bold">Pesan Autoreply</p>
+        <p class="text-md font-normal">Membalas pesan otomatis. Tidak perlu lagi manual menjawab ratusan pesan WA customer.</p>
+      </div>
+    </div>
+
+    <div class="col-span-1 flex rounded-xl shadow-md bg-white p-8">
+      <div class="flex-shrink-0 flex items-center justify-center font-medium rounded-l-md">
+        <img class="relative mx-auto items-center w-16 h-auto lg:w-24" src="/src/img/15.-unlimited-Chatbot.png" alt="" />
+      </div>
+      <div class="flex-1 px-4 py-2 flex-wrap">
+        <p class="lg:text-2xl text-lg font-bold">Unlimited Chatbot</p>
+        <p class="text-md font-normal">Bikin chatbot sebanyak yang Anda mau. Menyediakan jawaban atas F.A.Q customer</p>
+      </div>
+    </div>
+
+    <div class="col-span-1 flex rounded-xl shadow-md bg-white p-8">
+      <div class="flex-shrink-0 flex items-center justify-center font-medium rounded-l-md">
+        <img class="relative mx-auto items-center w-16 h-auto lg:w-24" src="/src/img/16.-Training-nomor-wa.png" alt="" />
+      </div>
+      <div class="flex-1 px-4 py-2 flex-wrap">
+        <p class="lg:text-2xl text-lg font-bold">Training Nomor WA</p>
+        <p class="text-md font-normal">Anda harus melatih nomor baru agar tidak mudah diblokir WA. Makin banyak no WA makin bagus</p>
+      </div>
+    </div>
+
+    <div class="col-span-1 flex rounded-xl shadow-md bg-white p-8">
+      <div class="flex-shrink-0 flex items-center justify-center font-medium rounded-l-md">
+        <img class="relative mx-auto items-center w-16 h-auto lg:w-24" src="/src/img/17.-unsibbscribe-button.png" alt="" />
+      </div>
+      <div class="flex-1 px-4 py-2 flex-wrap">
+        <p class="lg:text-2xl text-lg font-bold">Unsubscribe Button</p>
+        <p class="text-md font-normal">Bisa membuat tombol unsubsribe bagi customer yang tidak berkenan menerima pesan Anda</p>
+      </div>
+    </div>
+
+    <div class="col-span-1 flex rounded-xl shadow-md bg-white p-8">
+      <div class="flex-shrink-0 flex items-center justify-center font-medium rounded-l-md">
+        <img class="relative mx-auto items-center w-16 h-auto lg:w-24" src="/src/img/18.-Survei-tanpa-form.png" alt="" />
+      </div>
+      <div class="flex-1 px-4 py-2 flex-wrap">
+        <p class="lg:text-2xl text-lg font-bold">Survei Tanpa Form</p>
+        <p class="text-md font-normal">Bikin survei untuk berbagai keperluan via WA. Tidak perlu keluar dari WA (bukan link form)</p>
+      </div>
+    </div>
+  </div>
+
+  <p class="text-center text-gray-800 text-2xl font-normal mt-10 px-4">
+    Dan masih banyak lagi fiturnya.. Cek <a href="/" class="underline hover:bg-cyan-500 hover:text-white text-cyan-700">Roadmap Dripsender</a>
+  </p>
+</div>
