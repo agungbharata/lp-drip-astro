@@ -1,36 +1,47 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
-import Hero from '../components/Hero.astro';
-import Problem from '../components/Problem.astro';
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import Hero from "../components/Hero.astro";
+import Problem from "../components/Problem.astro";
 import Fact from "../components/Fact.astro";
 import ProblemSecond from "../components/ProblemSecond.astro";
 import ProblemThird from "../components/ProblemThird.astro";
 import CallToAction from "../components/CallToAction.astro";
 import BreakSection from "../components/BreakSection.astro";
 import ProductShow from "../components/ProductShow.astro";
-
-import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import Testimoni from "../components/Testimoni.astro";
+import Benefit from "../components/Benefit.astro";
+import User from "../components/User.astro";
+import Pricing from "../components/Pricing.astro";
+import Faq from "../components/Faq.astro";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
 ---
 
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-	</head>
-	<body>
-		<Header title={SITE_TITLE} />
-		<main>
-			<Hero/>
-			<Problem/>
-			<Fact/>
-			<ProblemSecond/>
-			<ProblemThird/>
-			<BreakSection/>
-			<ProductShow/>
-			<CallToAction/>
-		</main>
-		<Footer />
-	</body>
+  <head>
+    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+  </head>
+  <body>
+    <Header title={SITE_TITLE} />
+    <main>
+      <Hero />
+      <Problem />
+      <Fact />
+      <ProblemSecond />
+      <ProblemThird />
+      <BreakSection />
+      <ProductShow />
+      <CallToAction />
+      <Testimoni />
+      <CallToAction />
+      <Benefit />
+      <User />
+      <Pricing />
+      <Faq />
+      <CallToAction />
+    </main>
+    <Footer />
+  </body>
 </html>
