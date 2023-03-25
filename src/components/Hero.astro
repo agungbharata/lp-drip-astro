@@ -1,6 +1,8 @@
 ---
-const { src = 'src/img/hape2.png' } = Astro.props
+const { src = "src/img/hape2.png" } = Astro.props;
+import Image from "../widget/Image.svelte";
 ---
+
 <div class="relative overflow-hidden">
   <main>
     <div class="pt-10 bg-gray-50 sm:pt-16 lg:pt-8 lg:overflow-hidden dark:bg-slate-800">
@@ -36,7 +38,7 @@ const { src = 'src/img/hape2.png' } = Astro.props
           </div>
           <div class="mt-12 -mb-16 sm:-mb-48 lg:m-0 lg:relative">
             <div class="mx-auto max-w-md px-4 sm:max-w-2xl sm:px-6 lg:max-w-none lg:px-0">
-              <img src={(await import('/img/hape2.png')).default} alt="Mockup Dripsender"/>
+              <Image client:visible src="/img/hape2.png" alt="" />
             </div>
           </div>
         </div>

@@ -1,6 +1,10 @@
+---
+import Image from "../widget/Image.svelte";
+---
+
 <div class="pt-8 pb-24 mx-auto bg-slate-50">
-  <div class="mx-auto max-w-md px-4 text-center sm:px-6 sm:max-w-3xl lg:px-8 lg:max-w-6xl">
-    <img class="mx-auto" src="/img/product-show.png" alt="" />
+  <div class="mx-auto max-w-md px-4 text-center lg:px-8 lg:max-w-6xl">
+    <Image client:visible src="/img/product-show.png" alt="" />
   </div>
 
   <div class="text-center" id="feature">
